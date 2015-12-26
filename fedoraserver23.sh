@@ -20,4 +20,4 @@ dnf -y install gstreamer-plugins-bad gstreamer-plugins-bad-free-extras gstreamer
 dnf -y install rhythmbox
 
 # Install applications 
-wine bcloud kget 
+wine bcloud kget smplayer vlc docky docker VirtualBox-5.0 git bluefish atom ranger yakuake guake tilda terminator
