@@ -3,7 +3,7 @@
 
 # download tools.
 
- su -
+   #su -
  dnf -y install b43-fwcutter wget
 
 # download the bcm4312 linux driver.
