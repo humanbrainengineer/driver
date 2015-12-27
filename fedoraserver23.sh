@@ -49,10 +49,14 @@ thunderbird
 
 gzip
 
-# LiveUSB-Creator   
+# LiveUSB-Creator   UNetbootin
 
-# fileZilla  WalCommander.rpm
-ranger
+
+# fileZilla  walCommander.rpm  
+
+ranger 
+
+# 
 
 
  
