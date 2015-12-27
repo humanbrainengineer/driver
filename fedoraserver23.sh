@@ -56,7 +56,8 @@ gzip
 
 ranger 
 
-# 
+# Browser 
 
+firefox midori
 
  
