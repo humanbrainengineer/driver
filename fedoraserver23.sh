@@ -20,4 +20,39 @@ dnf -y install gstreamer-plugins-bad gstreamer-plugins-bad-free-extras gstreamer
 dnf -y install rhythmbox
 
 # Install applications 
-wine bcloud kget smplayer vlc docky docker VirtualBox-5.0 git bluefish atom ranger yakuake guake tilda terminator
+ bcloud 
+ docky 
+ docker 
+ git 
+ 
+
+shutter  
+unrar 
+ yakuake guake tilda  
+kget axel transmission 
+wine VirtualBox-5.0
+terminator
+ yum-plugin-fastestmirror 
+ smplayer vlc
+ gcc bluefish atom emacs gedit
+ 
+ # Mind mapping software 
+ dia freemind vym
+ 
+ # Email software 
+thunderbird
+
+# Youcompleteme vim 
+# http://valloric.github.io/YouCompleteMe/
+
+#TeamViewer
+
+gzip
+
+# LiveUSB-Creator   
+
+# fileZilla  WalCommander.rpm
+ranger
+
+
+ 
